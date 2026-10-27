@@ -165,8 +165,8 @@ export const PROJECTS = [
     tech: ["React", "Node.js", "Express", "MongoDB"],
     status: "Completed",
     category: "Portfolio Project",
-    live: "",
-    code: "",
+    live: "https://govindhamma-hotel-booking.vercel.app/",
+    code: "https://github.com/govindhamma003/hotel-booking",
   },
   {
     icon: "database",
@@ -183,7 +183,7 @@ export const PROJECTS = [
     status: "Completed",
     category: "Portfolio Project",
     live: "",
-    code: "",
+    code: "https://github.com/govindhamma003/book-management-system",
   },
   {
     icon: "chat",
@@ -199,8 +199,8 @@ export const PROJECTS = [
     tech: ["React", "Node.js", "AI API"],
     status: "In Progress",
     category: "Portfolio Project",
-    live: "",
-    code: "",
+    live: "https://github.com/govindhamma003/hotel-booking",
+    code: "https://govindhamma-hotel-booking.vercel.app/",
   },
 ];
 
