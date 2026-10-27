@@ -1,12 +1,14 @@
 @import "tailwindcss";
 
+/* ALL your site colors live here. Change these 7 lines = whole site changes. */
 @theme {
-  --color-bg: #000000;      /* page background */
-  --color-panel: #0d0d0d;   /* cards */
-  --color-line: #2b2b2b;    /* borders */
-  --color-muted: #a3a3a3;   /* grey text */
-  --color-ink: #ffffff;     /* main text */
-  --color-accent: #ffbd39;  /* amber/yellow */
+  --color-bg: #0e1525	;          /* page background */
+  --color-card: #141d33;        /* card background */
+  --color-line: #1e2a47;        /* borders */
+  --color-muted: #8fa3c8;       /* grey text */
+  --color-ink: #eef2ff;         /* main text */
+  --color-accent: #4cc4db;      /* main highlight color */
+  --color-accent-dark: #2a8fb0; /* darker shade, used for gradients */
   --font-head: "Poppins", system-ui, sans-serif;
   --font-body: "Poppins", system-ui, sans-serif;
 }
